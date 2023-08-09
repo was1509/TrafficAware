@@ -1,5 +1,5 @@
 # TrafficAware
-Chrome extension that provides the user with traffic information and driving directions.
+Chrome extension that provides the user traffic information and driving directions.
 
 ## Data
 ### Files
