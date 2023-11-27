@@ -5,4 +5,4 @@ Chrome extension that provides the user traffic information and driving directio
 ### Files
 - script.js
 - index.html
-- manifest.json
+- manifest file
